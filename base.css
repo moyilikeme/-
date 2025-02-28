@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.w{
+    width: 1200px;
+    margin: 0 auto;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color:#505259;
+}
+a:hover{
+    color: pink;
+}
+.header{
+    height: 80px;
+    width: 100%;
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+}
+.nav-box{
+    position: relative;
+    max-width: 1200px;
+    display: flex;
+    left: 0px;
+    top: 0px;
+    margin: 0 auto;
+    
+}
+.nav-box span,.nav{
+    margin-top: 30px;
+}
+.nav{
+    position: absolute;
+    right: 0px;  
+}
+.nav li{
+    display: inline-block;
+    text-align: center;
+    padding: 0 20px;
+}
+.banner{
+    width: 1200px;
+    height: 312px;
+    margin: 0 auto;
+    font-size: 30px;
+    background: url(../img/Camera_XHS_17406631103891040g2sg3153d6h13h4a05pir.jpg) no-repeat center center;
+    color: #fff;
+    line-height: 312px;
+    text-align: center;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}

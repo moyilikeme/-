@@ -1,0 +1,16 @@
+.fangshi{
+    width: 500px;
+    height: 300px;
+    border: 2px solid #000;
+    margin: 30px auto;
+}
+.fangshi ul li {
+    margin: 40px auto;
+    text-align: center;
+}
+.w p{
+    line-height: 30px;
+    font-size: 14px;
+    text-indent: 2em;
+    margin-bottom: 50px;
+}

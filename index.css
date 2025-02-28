@@ -1,0 +1,71 @@
+.intro{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+.intro-tit,.edu-tit,.skill-tit,.xm-tit{
+    width: 1200px;
+    line-height: 50px;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px;
+    margin: 0 auto;
+    color: #666;
+}
+.intro .b{
+    margin-right: 20px;
+    float: left;
+}
+.b img{
+    border-radius: 50%;
+}
+.intro .c{
+    line-height: 50px;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: left;
+}
+.intro .c ul li{
+    margin: 20px 0 0 30px;
+}
+.edu p{
+    margin: 20px;
+    font-size: 20px;
+}
+.skill{
+    margin-top: 50px;
+}
+.skill-main{
+    margin-left: 20px;
+    font-size: 20px;
+}
+.skill-main .jd{
+    width: 800px;
+    height: 10px;
+    border: 1px solid skyblue;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+.hts,.css,.jss{
+    height: 9px;
+    border-radius: 4px;
+    background-color: skyblue;
+}
+.hts{
+    width: 75%;
+}
+.css{
+    width: 70%;
+}
+.jss{
+    width: 40%;
+}
+.xm{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.xm p{
+    margin-left: 20px;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
